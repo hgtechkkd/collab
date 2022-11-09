@@ -1,3 +1,10 @@
 # collab
+<<<<<<< HEAD
 Mini Project for Trainees
-sriinivas
+srinivas kota
+=======
+Mini Project for Trainees 
+team c 
+bhanu prakash
+
+>>>>>>> 22a7d3e75b021c967835cc18d126d2664bb0e1a1
