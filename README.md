@@ -1,2 +1,5 @@
 # collab
-Mini Project for Trainees
+Mini Project for Trainees 
+team c 
+bhanu prakash
+
